@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://bharat123:bharat123@servicesplus-kazlp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b48fbbf1200db36650fe",
+  "githubSecret": "0733fc98a040ba1980dba7a7e7eb9fb9966d100e"
+}
