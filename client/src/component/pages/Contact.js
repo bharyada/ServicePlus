@@ -112,14 +112,14 @@ class Contact extends Component {
                   </div>
                   <p>
                     <span>
-                      <i className='fa fa-map-marker' aria-hidden='true'></i>{' '}
+                      <i className='fa fa-map-marker' aria-hidden='true'></i>
                       Address
                     </span>
                     Address Will be coming soon
                   </p>
                   <p>
                     <span>
-                      <i className='fa fa-envelope-o' aria-hidden='true'></i>{' '}
+                      <i className='fa fa-envelope-o' aria-hidden='true'></i>
                       E-mail
                     </span>
                     <a

@@ -9,7 +9,7 @@ export default function FooterSection() {
             <span>
               <strong>Need Help?</strong> Call Us 24/7:
             </span>
-            <p>+91-9628900300</p>
+            <p>+91-8689890905</p>
           </div>
           <div className='col-md-5 footer_left'>
             <p>Keep in Touch</p>
