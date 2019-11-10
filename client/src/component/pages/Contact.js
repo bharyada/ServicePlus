@@ -106,7 +106,7 @@ class Contact extends Component {
                   <div className='Address'>Address Info</div>
                   <div className='CoName'>
                     SERVICE+
-                    <a className='CoName' href='index.html'>
+                    <a className='CoName' href='/'>
                       Packers & Movers Contact
                     </a>
                   </div>
@@ -115,8 +115,7 @@ class Contact extends Component {
                       <i className='fa fa-map-marker' aria-hidden='true'></i>{' '}
                       Address
                     </span>
-                    2nd Floor, Vipul Plaza, Vipul Khand 3, Gomti Nagar, Lucknow
-                    - 226010, Above Bank Of Baroda
+                    Address Will be coming soon
                   </p>
                   <p>
                     <span>
@@ -135,7 +134,7 @@ class Contact extends Component {
                     <span>
                       <i className='fa fa-phone' aria-hidden='true'></i> Contact
                     </span>
-                    +91-9628900300
+                    +91-8689890905
                   </p>
                 </div>
               </div>

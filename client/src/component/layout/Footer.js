@@ -112,7 +112,7 @@ function Footer() {
                       </a>
                     </li>
                     <li>
-                      <a title='Contact' hrefLang='en' href='contact-us.html'>
+                      <a title='Contact' hrefLang='en' href='/contact'>
                         <i className='fa fa-caret-right'></i> Contact
                       </a>
                     </li>
