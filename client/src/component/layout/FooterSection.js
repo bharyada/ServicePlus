@@ -18,7 +18,7 @@ export default function FooterSection() {
                 <i className='fa fa-envelope-o'></i> contact@Service+.com
               </li>
               <li>
-                <i className='fa fa-phone'></i> +91-9628900300
+                <i className='fa fa-phone'></i> +91-8689890905
               </li>
             </ul>
           </div>
