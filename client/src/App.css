@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins');
+/* @import url('https://fonts.googleapis.com/css?family=Poppins');
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif|Kalam');
-@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Kalam|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Kalam|Roboto'); */
 html {
 	height: 100%
 }
@@ -1029,7 +1029,7 @@ body {
 	/*! font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #333
+	color: #f18a30
 }
 #search_keywords {
 	font-size: 22px;
@@ -1426,7 +1426,7 @@ pre code {
 }
 .mega-dropdown-menu > li > ul > li > a {
 	display: block;
-	color: #222;
+	/* color: #222; */
 	padding: 3px 5px;
 	list-style:none;
 }
@@ -1435,7 +1435,7 @@ pre code {
 }
 .mega-dropdown-menu .dropdown-header {
 	font-size: 18px;
-	color: #ff3546;
+	/* color: #ff3546; */
 	padding: 5px 60px 5px 5px;
 	line-height: 30px;
 	margin-bottom: 10px;
@@ -2799,31 +2799,31 @@ a.btn.disabled, fieldset[disabled] a.btn {
 	background-color: #fff
 }
 .btn-danger {
-	color: #000;
-	background-color: #E27774;
-	border-color: #d43f3a
+	color:#fff;
+	background-color: #f18a30;
+	border-color: #f18a30
 }
 .btn-danger.focus, .btn-danger:focus {
 	color: #fff;
-	background-color: #c9302c;
-	border-color: #761c19
+	background-color: #f18a30;
+	border-color: #f18a30
 }
 .btn-danger.active, .btn-danger:active, .btn-danger:hover, .open>.dropdown-toggle.btn-danger {
 	color: #fff;
-	background-color: #c9302c;
-	border-color: #ac2925
+	background-color: #f18a30;
+	border-color: #f18a30
 }
 .btn-danger.active.focus, .btn-danger.active:focus, .btn-danger.active:hover, .btn-danger:active.focus, .btn-danger:active:focus, .btn-danger:active:hover, .open>.dropdown-toggle.btn-danger.focus, .open>.dropdown-toggle.btn-danger:focus, .open>.dropdown-toggle.btn-danger:hover {
 	color: #fff;
-	background-color: #ac2925;
-	border-color: #761c19
+	background-color: #f18a30;
+	border-color: #f18a30
 }
 .btn-danger.disabled.focus, .btn-danger.disabled:focus, .btn-danger.disabled:hover, .btn-danger[disabled].focus, .btn-danger[disabled]:focus, .btn-danger[disabled]:hover, fieldset[disabled] .btn-danger.focus, fieldset[disabled] .btn-danger:focus, fieldset[disabled] .btn-danger:hover {
-	background-color: #d9534f;
-	border-color: #d43f3a
+	background-color: #f18a30;
+	border-color: #f18a30
 }
 .btn-danger .badge {
-	color: #d9534f;
+	color: #f18a30;
 	background-color: #fff
 }
 .btn-link {
@@ -3828,18 +3828,18 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 	background-color: transparent;
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-text {
-	color: #fff;
+	/* color: #fff; */
 	font-size:16px;
 	font-family: Raleway,! sans-serif !important ;
 }
 .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
-	color: #fff;
+	/* color: #fff; */
 	background-color: transparent;
 	font-size:16px;
 	font-family: Raleway,! sans-serif important;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-	color: #fff;
+	/* color: #fff; */
 	background-color: #080808
 }
 .navbar-inverse .navbar-nav>.disabled>a, .navbar-inverse .navbar-nav>.disabled>a:focus, .navbar-inverse .navbar-nav>.disabled>a:hover {
@@ -9448,7 +9448,7 @@ iframe {
 	height: 70px;
 	font-size: 15px;
 	color: #fff;
-	background: #dc1e28;
+	background: #f18a30;
 	border-radius: 15px 0 15px 0;
 	text-decoration: none;
 	font-family: 'Bree Serif', serif;
@@ -9530,10 +9530,10 @@ iframe {
 	font-size: 14px;
 	color: #000;
 	text-transform: uppercase;
-	background: #ffc107
+	background: #f18a30
 }
 .dropdown-menu {
-	background: #fff;
+	background: #f18a30;
 	padding: 0px;
 	min-width: 158px !important;
 }
@@ -9549,7 +9549,7 @@ iframe {
 	border-bottom: 1px solid #ccc;
 }
 .dropdown-menu li .login:hover {
-	background: #fff!important;
+	background: #f18a30!important;
 	color: #333!important
 }
 .arrow-up {
@@ -9723,7 +9723,7 @@ iframe {
 	padding: 50px 0
 }
 .whypmdir_section .why_wrap .section_title {
-	color: #333;
+	/* color: #333; */
 	font-size: 30px;
 	margin-bottom: 30px;
 }
@@ -9789,7 +9789,7 @@ iframe {
 .getalist_section {
 	width: 100%;
 	padding: 80px 0;
-	background: #dc1e28;
+	background: #3d5097;
 	border-top: 1px solid #474f5d
 }
 .getalist_section .text_box {
@@ -9853,7 +9853,7 @@ iframe {
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: cover;
-	background-color: #000
+	background-color: #f18a30
 }
 .testimonial_section .holder {
 	float: left;
@@ -10092,7 +10092,7 @@ iframe {
 }
 .numbers p {
 	font-weight: 600;
-	color: #DC1E28;
+	color: #f18a30;
 	letter-spacing: 2px;
 	font-size: 40px;
 	padding-top: 0;
@@ -10127,7 +10127,7 @@ iframe {
 .menu_section {
 	width: 100%;
 	min-height: 40px;
-	background: #333333;
+	background: #f18a30;
 	z-index: 1;
 	position: absolute;
 	top: 75px;
@@ -10406,7 +10406,7 @@ iframe {
 }
 .footer_right input[type=submit] {
 	height: 35px;
-	background: #ffc107;
+	background: #f18a30;
 	width: 100%;
 	padding: 5px;
 	color: #333;
@@ -10420,7 +10420,7 @@ iframe {
 .more_services {
 	width: 100%;
 	height: auto;
-	background: #333;
+	background: #f18a30;
 	padding-bottom: 70px
 }
 .services {
@@ -10444,7 +10444,7 @@ iframe {
 }
 .services_list li a {
 	display: block;
-	color: #aaa;
+	color: whitesmoke;
 	/*border-bottom: 1px dotted #555*/
 }
 .services_list li a h6 {
@@ -12284,7 +12284,7 @@ iframe {
 	margin-top: 7px
 }
 .dropdown-menu {
-	background:#fff!important;
+	background:#f18a30!important;
 	padding: 20px 15px;
 	min-width: 158px!important;
 	margin-bottom: 20px;
@@ -12295,7 +12295,7 @@ iframe {
 	padding: 10px 6px!important;
 	font-size: 14px!important;
 	color: #fff!important;
-	background: #0e0d0d;
+	background: #f18a30;
 	height: 30px!important;
 	line-height: 10px!important;
 	border-radius: 3px;
@@ -12306,7 +12306,7 @@ iframe {
 	color: #fff !important;
 }
 .dropdown-menu li .login:hover {
-	background: #0e0d0d !important;
+	background: #f18a30 !important;
 	color: #fff !important;
 }
 .arrow-up {
@@ -12465,7 +12465,7 @@ iframe {
 }
 .whypmdir_section .why_wrap .section_title {
 	font-family: 'Oswald-Regular';
-	color: #333;
+	/* color: #333; */
 	font-size: 22px;
 	text-align: center
 }
@@ -12840,7 +12840,7 @@ iframe {
 .more_services {
 	width: 100%;
 	height: auto;
-	background: #333;
+	background: #f18a30;
 	padding: 30px 0
 }
 .services {
@@ -14408,7 +14408,7 @@ span.ReviewTitle {
 	right: 60px;
 }
 .TestimoGrid {
-	background: rgba(0, 0, 0, 0.68);
+	background: whitesmoke;
 	padding: 20px;
 	border-radius: 10px;
 }
@@ -18199,7 +18199,7 @@ a.give_review {
 	font-size:26px;
 	font-family: 'Poppins', sans-serif;
 	margin:20px 0px 26px 0px;
-	color:#000;
+	/* color:#000; */
 }
 
 .Title_h1:before {
@@ -18216,7 +18216,7 @@ a.give_review {
 	font-size:20px;
 	font-family: 'Poppins', sans-serif;
 	margin:20px 0px 16px 0px;
-	color:#dc1e28;
+	/* color:#dc1e28; */
 }
 
 .SERVICE p {
@@ -18432,14 +18432,14 @@ a.give_review {
 .RightContact input[type="text"], .RightContact input[type="email"], .RightContact input[type="tel"], .RightContact input[type="url"], .RightContact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
 
 .RightContact {
-	background:#ececec;
+	background:#ffffff;
 	padding:25px;
 	margin:0px 0px 50px 20px;
 	border: 1px solid #e0dede;
 }
 
 .RightContact h3 {
-	color: #dc1e28;
+	color: #fff;
 	display: block;
 	font-size: 20px !important;
 	font-weight: 400;
@@ -18961,7 +18961,7 @@ h4.modal-title {
 .menu_section {
 	width: 100%;
 	min-height: 40px;
-	background: #DC1E28;
+	background: #f18a30;
 	z-index: 1;
 	position: absolute;
 }
@@ -18971,7 +18971,7 @@ h4.modal-title {
 	margin-left: -24px;
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-text {
-	color: #fff;
+	/* color: #fff; */
 	font-size: 15px !important;
 	font-family: Raleway, !sans-serif !important;
 	padding-left: 35px;
@@ -19012,7 +19012,7 @@ h4.modal-title {
 	margin-left: -24px;
 }
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-text {
-	color: #fff;
+	/* color: #fff; */
 	font-size: 15px !important;
 	font-family: Raleway, !sans-serif !important;
 	padding-left: 23px;
@@ -19144,7 +19144,7 @@ h4.modal-title {
   
   .pmdirhead
   {
-    color: #333;
+    /* color: #333; */
     padding-top:10px;
     text-align: center;
     font-family: 'Bree Serif', serif;
