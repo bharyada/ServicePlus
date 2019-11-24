@@ -5436,7 +5436,7 @@ td.visible-xs, th.visible-xs {
 }
 @media (min-width:768px) and (max-width:991px) {
 	.navbar-inverse {
-	background-color: #DC1E28;
+	background-color: #f18a30;
 	border-color: transparent;
 }
 .visible-sm {
@@ -10319,7 +10319,7 @@ iframe {
 	left: 15px;
 	width: 50px;
 	height: 4px;
-	background: #dc1e28;
+	background: #f18a30;
 	display: none;
 }
 .menu_section {
@@ -18562,7 +18562,7 @@ a.give_review {
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
 	border-color: #101010;
-	background: black;
+	background: #f1882c;
 }
 
 }
@@ -18826,7 +18826,7 @@ a.give_review {
   font-size: 0.8em;
   color: #fff;
   opacity: 0;
-  font-family: FontAwesome;
+  /* font-family: FontAwesome; */
   content: "\f00c";
 }
 #PostFGrid input:checked + label:after {
