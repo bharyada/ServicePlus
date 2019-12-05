@@ -1029,7 +1029,7 @@ body {
 	/*! font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #f18a30
+	color: #37447d
 }
 #search_keywords {
 	font-size: 22px;
@@ -10420,7 +10420,7 @@ iframe {
 .more_services {
 	width: 100%;
 	height: auto;
-	background: #f18a30;
+	background: #37447d;
 	padding-bottom: 70px
 }
 .services {
@@ -12840,7 +12840,7 @@ iframe {
 .more_services {
 	width: 100%;
 	height: auto;
-	background: #f18a30;
+	background: #37447d;
 	padding: 30px 0
 }
 .services {
@@ -13187,7 +13187,7 @@ iframe {
 .more_services p {
 	display: block;
 	font-size: 18px;
-	color: #fff;
+	color:red;
 	padding-top: 10px;
 	padding-left: 3px;
 	text-align: left

@@ -1,11 +1,11 @@
-import React from 'react';
-import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import { Carousel } from 'react-responsive-carousel';
+import React from "react";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from "react-responsive-carousel";
 
 const h1Style = {
-  color: 'white',
-  margin: '-350px',
-  textalign: 'center'
+  color: "white",
+  margin: "-350px",
+  textalign: "center"
 };
 
 function Servicessection() {
@@ -19,14 +19,14 @@ function Servicessection() {
       showIndicators={false}
     >
       <div>
-        <img src={require('../../assets/images/3.jpg')} />
+        <img src={require("../../assets/images/Services.jpg")} />
         <h1 style={h1Style}>Any type of service provide near you</h1>
       </div>
       <div>
-        <img src={require('../../assets/images/4.jpg')} />
+        <img src={require("../../assets/images/Services1.jpg")} />
       </div>
       <div>
-        <img src={require('../../assets/images/5.jpg')} />
+        <img src={require("../../assets/images/5.jpg")} />
       </div>
     </Carousel>
 
